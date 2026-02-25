@@ -1,3 +1,5 @@
+from story import forest_scene
+from dialogues import shadow_intro
 from health import Player
 from rollback import GameState
 
